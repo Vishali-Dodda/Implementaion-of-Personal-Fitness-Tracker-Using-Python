@@ -61,5 +61,3 @@ The application uses two datasets:
 
 ![image](https://github.com/user-attachments/assets/b1a38709-5a5c-4c82-952c-b99f521b7aaf)
 
-
-This README provides a clear and detailed explanation of your project for users. Let me know if you want any modifications! 🚀
